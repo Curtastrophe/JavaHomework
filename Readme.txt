@@ -1,0 +1,1 @@
+Unable to fill the array from console, what's wrong here?
